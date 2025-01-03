@@ -14,5 +14,5 @@ source=("chisel-${CARCH}::$url/releases/download/v$pkgver/chisel-linux-${CARCH}"
 sha256sums=('SKIP')
 
 package() {
-  install -Dm755 "chisel-${CARCH}" "${pkgdir}/var/RunDir/static/chisel"
+  install -Dm755 "chisel-${CARCH}" "${pkgdir}/var/RunDir/sharun/bin/chisel"
 }
