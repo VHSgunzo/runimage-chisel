@@ -1,2 +1,2 @@
 # runimage-chisel
-Patched chisel for RunImage container
+Patched [chisel](https://github.com/VHSgunzo/chisel) for [RunImage](https://github.com/VHSgunzo/runimage) container.
